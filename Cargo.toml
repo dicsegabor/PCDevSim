@@ -1,0 +1,9 @@
+[package]
+name = "PCDevSim"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fmi = "0.4.1"
+gtk = "0.18.1"
+tokio = "1.41.1"
